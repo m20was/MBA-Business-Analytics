@@ -1,0 +1,4 @@
+This file contains email id. Remove the email ids from the file and print it. 
+Examples of valid emails simple@example.com very.common@example.com other.email-with-hyphen@example.com 
+fully-qualified-domain@example.com Few more examples: guru99@google.com careerguru99@hotmail.com users_yahoomail.com
+Example with first names and lastname fname@gmail.com lname@yahoo.com """
